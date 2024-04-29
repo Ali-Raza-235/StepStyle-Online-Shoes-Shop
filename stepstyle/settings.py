@@ -26,11 +26,10 @@ SECRET_KEY = '0g61p@lw&q2ef&w(g3=fost^$jf_i*lknsf)%ey)&4yx*w6h8$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-<<<<<<< HEAD
 ALLOWED_HOSTS = []
-=======
+
 ALLOWED_HOSTS = ["*"]
->>>>>>> parent of aa78adc (Deploying to Verce)
+
 
 
 # Import the necessary module
